@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7df010a6-d4f8-43a0-9f22-79fdb1102112": {
+      "ProjectGuid": "7df010a6-d4f8-43a0-9f22-79fdb1102112",
+      "DisplayName": "NS.EMS.MODEL",
+      "ColorIndex": 0
+    },
+    "c1c32b77-6d48-4c74-b1c8-d7afc2c70d98": {
+      "ProjectGuid": "c1c32b77-6d48-4c74-b1c8-d7afc2c70d98",
+      "DisplayName": "NS.EMS.BUSSINESS",
+      "ColorIndex": 1
+    },
+    "f083cbeb-7023-47f5-a358-ddc6f7131128": {
+      "ProjectGuid": "f083cbeb-7023-47f5-a358-ddc6f7131128",
+      "DisplayName": "NS.EMS.REPO",
+      "ColorIndex": 2
+    },
+    "5d2c07a9-ace6-4405-8bb8-117f6a3214e5": {
+      "ProjectGuid": "5d2c07a9-ace6-4405-8bb8-117f6a3214e5",
+      "DisplayName": "NS.EMS.API",
+      "ColorIndex": 3
+    },
+    "d1cb4325-681b-4de9-9898-f3cdae73daae": {
+      "ProjectGuid": "d1cb4325-681b-4de9-9898-f3cdae73daae",
+      "DisplayName": "NS.EMS.DATABASE",
+      "ColorIndex": 4
+    },
+    "b34339e6-9018-42ba-a812-f38d025398e9": {
+      "ProjectGuid": "b34339e6-9018-42ba-a812-f38d025398e9",
+      "DisplayName": "NS.EMS.LOGINREPO",
+      "ColorIndex": 5
+    },
+    "63f6e4cd-3fa4-4603-b91b-4c2928eb4d02": {
+      "ProjectGuid": "63f6e4cd-3fa4-4603-b91b-4c2928eb4d02",
+      "DisplayName": "NS.EMS.LOGINBUSSINESS",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

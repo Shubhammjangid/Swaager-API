@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NS.EMS.BUSSINESS\NS.EMS.BUSSINESS.csproj" />
+    <ProjectReference Include="..\NS.EMS.DATABASE\NS.EMS.DATABASE.csproj" />
+    <ProjectReference Include="..\NS.EMS.LOGINBUSSINESS\NS.EMS.LOGINBUSSINESS.csproj" />
+    <ProjectReference Include="..\NS.EMS.LOGINREPO\NS.EMS.LOGINREPO.csproj" />
+    <ProjectReference Include="..\NS.EMS.MODEL\NS.EMS.MODEL.csproj" />
+    <ProjectReference Include="..\NS.EMS.REPO\NS.EMS.REPO.csproj" />
+  </ItemGroup>
+
+
+</Project>

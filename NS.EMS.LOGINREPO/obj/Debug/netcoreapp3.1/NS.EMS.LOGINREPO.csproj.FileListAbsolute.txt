@@ -1,0 +1,13 @@
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\bin\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.deps.json
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\bin\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.dll
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\bin\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.pdb
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\bin\Debug\netcoreapp3.1\NS.EMS.DATABASE.dll
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\bin\Debug\netcoreapp3.1\NS.EMS.DATABASE.pdb
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.csproj.CopyComplete
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.dll
+C:\Users\harsh jangid\Desktop\cut-paste\DOTNET-API\NS.EMS.LOGINREPO\obj\Debug\netcoreapp3.1\NS.EMS.LOGINREPO.pdb
