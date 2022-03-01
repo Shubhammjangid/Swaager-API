@@ -36,15 +36,7 @@ namespace NS.EMS.LOGINREPO
                 }
                 
             }
-                
-            
-                
- 
-                
-                
-              
-            
-            
+    
         }
 
         private string GenerateToken(string userName , string role)
