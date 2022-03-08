@@ -23,7 +23,7 @@ namespace NS.EMS.DATABASE.Entities
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=LAPTOP-C59IR2RT\\SQLEXPRESS;Database=UPS;User ID=root;Password=Root@123;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=LAPTOP-C59IR2RT\\SQLEXPRESS;Database=UPS;User ID=****;Password=*******;Trusted_Connection=True;");
             }
         }
 
